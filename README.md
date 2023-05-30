@@ -64,6 +64,12 @@ gi <inode id>
 gb <block id>
 ```
 
+## Screenshots
+
+<img src="figs/pre/step2shot1.png" alt="s2" style="zoom:67%;" /> 
+
+<img src="figs/pre/step3shot1.png" alt="s3" style="zoom:67%;" /> 
+
 ## Code Structure
 ```
 .
