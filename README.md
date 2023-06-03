@@ -8,7 +8,7 @@ UNIkeEN, 2023 Spring
 
 本项目借鉴了linux的ex2文件系统，自行设计了superblock和inode，但由于时间仓促，许多细节处性能仍值得优化。具体的实现细节请见报告（见`report.pdf`）
 
-According to the requirements of the question (see `problem set. pdf`), there are three steps: implementing a disk system, implementing a file system, and connecting the two using sockets. 
+According to the requirements of the question (see `problem set.pdf`), there are three steps: implementing a disk system, implementing a file system, and connecting the two using sockets. 
 
 This project drew inspiration from Linux's EX2 file system and designed superblock and inode, but due to time constraints, many details of performance are still worth optimizing. Please refer to the report (see `report.pdf`) for specific implementation details.
 
