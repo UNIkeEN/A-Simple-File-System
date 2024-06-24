@@ -2,7 +2,7 @@
 
 UNIkeEN, 2023 Spring
 
-## Desctiption
+## Description
 
 这是上海交通大学操作系统课程设计的项目三：文件系统。按题目要求（见`problem set.pdf`）分为三步：实现磁盘系统、实现文件系统、使用socket连接两者。
 
